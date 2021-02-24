@@ -25,6 +25,7 @@
   <sca:property xmi:id="_6TNOoHakEeuDpNqJBLs_WA" name="BW.MODULE.VERSION" type="XMLSchema:string" scalable="true"/>
   <sca:property xmi:id="_6TPD0HakEeuDpNqJBLs_WA" name="BW.MODULE.NAME" type="XMLSchema:string" scalable="true"/>
   <sca:property xmi:id="_jObO8HalEeuDpNqJBLs_WA" name="PROVIDER_PORT" type="XMLSchema:int" scaext:simpleValue="0" publicAccess="true" scalable="true"/>
+  <sca:property xmi:id="_R6gL4HasEeuDpNqJBLs_WA" name="BW.CLOUD.PORT" type="XMLSchema:int" scalable="true"/>
   <sca:component xmi:id="_OZUBQHalEeuDpNqJBLs_WA" name="ComponentProvider" compositeext:version="1.0.0.qualifier">
     <scaext:implementation xsi:type="BW:BWComponentImplementation" xmi:id="_OZUBQXalEeuDpNqJBLs_WA" processName="provider.Provider"/>
     <sca:service xmi:id="_OZY5wHalEeuDpNqJBLs_WA" name="provider">
